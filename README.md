@@ -1,4 +1,4 @@
-# cggh-new-language-extension
+# cgg-new-language-extension
 cggh is a custom programming language
 CGGH - Requirements
 
